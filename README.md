@@ -1,17 +1,14 @@
-<!--### Hi there, I'm Mohamed KARIM 
+<!--### Hi there, I'm Aymane ECHAFII 
 <img src="https://komarev.com/ghpvc/?username=skeet1&color=blueviolet" alt="skeet1">
 
-<a style="color: #1C9CEA;" href="https://twitter.com/skeet_cpp">
+<a style="color: #1C9CEA;" href="https://twitter.com/Aymane_Echafii">
   <img align="left" alt="skeet1's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://linkedin.com/in/mrmohamedkarim/">
-  <img align="left" alt="skeet1's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/skeet1">
+
+<a href="https://github.com/Aymane-1">
   <img align="left" alt="skeet1's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <br>
-- 👋 Hi, I’m @skeet1 <br>
+- 👋 Hi, I’m Aymane <br>
 - 👀 I’m interested in Web Development <br>
 - 🌱 I’m currently learning ... <br>
 - 💞️ I’m looking to collaborate on ... <br>
@@ -21,7 +18,7 @@
 skeet1/skeet1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center">Hi 👋, I'm Mohamed Karim</h1>
+<h1 align="center">Hi 👋, I'm Aymane Echafii</h1>
 <h3 align="center">Programmer | Developer | Learner | 1337 Student.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skeet1&label=Profile%20views&color=0e75b6&style=flat" alt="skeet1" /> </p>
