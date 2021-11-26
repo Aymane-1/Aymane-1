@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aymane_echafii&label=Profile%20views&color=0e75b6&style=flat" alt="aymane_echafii" /> </p>
 
 
-<p align="left"> <a href="https://twitter.com/aymane_echafii" target="blank"><img src="https://img.shields.io/twitter/follow/skeet_cpp?logo=twitter&style=for-the-badge" alt="aymane_echafii" /></a> </p>
+<p align="left"> <a href="https://twitter.com/aymane_echafii" target="blank"><img src="https://img.shields.io/twitter/follow/aymane_echafii?logo=twitter&style=for-the-badge" alt="aymane_echafii" /></a> </p>
 
 - 🔭 I’m currently working on **Libft Project**
 
