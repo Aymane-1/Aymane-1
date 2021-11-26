@@ -11,10 +11,6 @@
 - 💞️ I’m looking to collaborate on ... <br>
 - 📫 How to reach me ... <br>
 
-
-skeet1/skeet1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 <h1 align="center">Hi 👋, I'm Aymane Echafii</h1>
 <h3 align="center">Programmer | Developer | Learner | 1337 Student.</h3>
 
@@ -28,12 +24,13 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently learning the **42 cursus**
 
 - 📫 Reach me at **echafii.aymane@outlook.com**
+
 <br>
 <h2 style="color: blue" > 42 Cursus <h2>
 <img src="https://badge42.herokuapp.com/api/stats/aechafii?privacyEmail=true)](https://github.com/JaeSeoKim/badge42" />
 <br>
   <!--
-  <img src="https://1337-readme.vercel.app/api/profile?cursus=42cursus&white=true&login=mkarim" />
+  <img src="https://1337-readme.vercel.app/api/profile?cursus=42cursus&white=true&login=aechafii" />
 <br> -->
   
 <h3 align="left">Languages and Tools:</h3>
