@@ -1,9 +1,6 @@
 <!--### Hi there, I'm Aymane ECHAFII 
 <img src="https://komarev.com/ghpvc/?username=aymane_echafii&color=blueviolet" alt="aymane_echafii">
 
-<a style="color: #1C9CEA;" href="https://twitter.com/aymane_echafii">
-  <img align="left" alt="aymane_echafii's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-
 <a href="https://github.com/aymane-1">
   <img align="left" alt="aymane-1's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
