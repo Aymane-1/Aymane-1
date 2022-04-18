@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/aymane_echafii" target="blank"><img src="https://img.shields.io/twitter/follow/aymane_echafii?logo=twitter&style=for-the-badge" alt="aymane_echafii" /></a> </p>
 
-- 🔭 I’m currently working on **Printf Project**
+- 🔭 I’m currently working on **PUSH SWAP Project**
 
 - 🌱 I’m currently learning the **42 cursus**
 
