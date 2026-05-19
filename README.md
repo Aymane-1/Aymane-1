@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Aymane Echafii</h1>
-<h3 align="center">Software Engineer | FrontEnd Developer.</h3>
+<h1 align="center">Hi 👋, I'm Aymane</h1>
+<h3 align="center">Full-Stack Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Aymane-1&label=Profile%20views&color=0e75b6&style=flat" alt="aymane_echafii" /> </p>
 
